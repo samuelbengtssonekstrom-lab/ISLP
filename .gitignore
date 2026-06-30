@@ -4,6 +4,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+.virtual_documents/
 
 # Conda
 .env
@@ -17,5 +18,5 @@ conda-meta/
 # VS Code
 .vscode/
 
-# Data (optional — see note below)
-data/
+# Root-level data dumps; chapter data folders are part of the project layout.
+/data/
